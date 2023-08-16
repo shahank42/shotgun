@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.vercel.shotgun_chi.twa",
+        "sha256_cert_fingerprints": ["9C:C9:D8:7E:25:81:1E:5D:FF:07:DF:B2:25:5E:2C:E7:86:FC:AF:63:2D:B3:4D:78:00:03:69:25:11:4A:5E:FC"]
+      }
+    }]
